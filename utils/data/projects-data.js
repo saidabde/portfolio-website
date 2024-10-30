@@ -77,7 +77,7 @@ export const projectsData = [
       "Design Patterns",
       "Algorithms",
     ],
-    code: "",
+    code: "https://github.com/elomarii/firefighters",
     demo: "",
     image: ayla,
     role: "Software Developer",
@@ -92,6 +92,17 @@ export const projectsData = [
     demo: "",
     image: ayla,
     role: "Software Developer",
+  },
+  {
+    id: 8,
+    name: "Typing Speed Test",
+    description:
+      "A web application built to help users improve their typing speed and accuracy through a variety of text challenges. Developed with Next.js and styled using Tailwind CSS, this project leverages a responsive design for an engaging user experience. Deployed on AWS for scalable access, the app provides instant feedback on typing metrics, motivating users to improve their skills progressively.",
+    tools: ["Next.js", "Tailwind CSS", "AWS"],
+    code: "https://github.com/saidabde/typing_test",
+    demo: "http://54.234.149.78/",
+    image: ayla,
+    role: "Full Stack Developer",
   },
 ];
 

@@ -14,7 +14,7 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background-color: #0d1224;
+  background-color: #050535;
 }
 
 #sticky-card-1 {
@@ -43,6 +43,9 @@ body {
   --index: 7;
 }
 
+#sticky-card-8 {
+  --index: 8;
+}
 .sticky-card {
   // padding-top: calc(var(--index) * 2.5rem);
   top: calc(var(--index) * 4rem);
